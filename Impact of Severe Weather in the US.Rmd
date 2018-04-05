@@ -20,7 +20,7 @@ This database tracks characteristics of major storms and weather events in the U
 
 The database covers the time period between 1950 and November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
 
-The analysis aims to investigate which different types of sever weather events are most harmful on the populations health in respect of general injuries and fatalities. Further the economic consequences will be analyzed by exploring the financial damage done to both general property and agriculture (i.e. crops)
+The analysis aims to investigate which different types of sever weather events are most harmful on the populations health in respect of general injuries and fatalities. Further the economic consequences will be analyzed by exploring the financial damage done to both general property and agriculture (i.e. crops).
 
 ## Data Processing
 
