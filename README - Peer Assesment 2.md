@@ -1,4 +1,4 @@
-# Impact of Severe Weather in the US
+# Peer Assesment 2 - Impact of Severe Weather in the US
 
 ## About
 
