@@ -25,7 +25,7 @@ The analysis aims to investigate which different types of sever weather events a
 ## Data Processing
 
 ### Data Loading:
-Load and read the raw data file.
+Load and read the raw data file. 
 
 ```{r echo=TRUE}
 data <- read.csv("repdata_data_StormData.csv")
